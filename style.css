@@ -1,0 +1,53 @@
+body{
+  background: rgb(245,245,245);
+  color: #14213D;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+
+}
+h1{
+  font-family: 'Rubik', sans-serif;
+  color: #DF476E;
+  font-size: 50px;
+  font-weight: 700;
+  text-shadow: 0px 0px 5px #14213D;
+}
+h2 {
+  font-family: 'Rubik', sans-serif;
+  color: #DF476E;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h3 {
+  color: #EBF5EE;
+  font-size: 20px;
+}
+
+.header {
+  background: url(aqua.jpg);
+  background-size: cover;
+  height: 550px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  padding-top: 230px;
+  text-align: center;
+}
+
+footer {
+  background-color: #DF476E;
+  height: 100px;
+  margin-top: 25px;
+  padding: 25px;
+  text-align: left;
+}
+a {
+  color: #14213D;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
